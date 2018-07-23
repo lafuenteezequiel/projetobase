@@ -1,9 +1,5 @@
 @extends('layout.master')
 
-@section('javascript')
-    <script src="../../../js/videos/create.js"></script>
-@stop
-
 @section('conteudo')
 
     <div class="container-fluid pb-video-container">
